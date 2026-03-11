@@ -134,8 +134,14 @@
         <mxCell id="_GW_QHAqRueJzuYdTQVs-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="Warehouse Separtment" vertex="1">
           <mxGeometry height="270" width="1870" x="170" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="JTW380UVqBL9k5zzlviH-2" edge="1" parent="_GW_QHAqRueJzuYdTQVs-1" source="_GW_QHAqRueJzuYdTQVs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="JTW380UVqBL9k5zzlviH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_GW_QHAqRueJzuYdTQVs-14" parent="_GW_QHAqRueJzuYdTQVs-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.36363636363636365;fillColor=light-dark(#e11998, #ededed);direction=north;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Continued Page 2&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="70" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JTW380UVqBL9k5zzlviH-1" parent="_GW_QHAqRueJzuYdTQVs-1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Goods Dispatched to Customer&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="220" y="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
