@@ -8,7 +8,7 @@
           <mxGeometry height="20" width="1870" x="80" y="30" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-2" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Sales Department" vertex="1">
-          <mxGeometry height="380" width="1870" x="80" y="45" as="geometry">
+          <mxGeometry height="380" width="1870" x="80" y="50" as="geometry">
             <mxRectangle height="30" width="610" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
