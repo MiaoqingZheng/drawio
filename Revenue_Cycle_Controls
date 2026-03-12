@@ -8,7 +8,7 @@
           <mxGeometry height="20" width="1870" x="80" y="30" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-2" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Sales Department" vertex="1">
-          <mxGeometry height="380" width="1870" x="80" y="50" as="geometry">
+          <mxGeometry height="380" width="1870" x="80" y="45" as="geometry">
             <mxRectangle height="30" width="610" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pGH0SQg9JUakCyH8bkGQ-23" parent="0vQu63eh7_hz7IOFjZfk-2" style="html=1;dashed=1;whiteSpace=wrap;dashPattern=8 8;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Control Activity&lt;br&gt;&amp;nbsp;CA-01&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="150" x="1020" as="geometry" />
+          <mxGeometry height="90" width="150" x="1020" y="10" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-3" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Warehouse Separtment" vertex="1">
           <mxGeometry height="230" width="1870" x="80" y="430" as="geometry" />
