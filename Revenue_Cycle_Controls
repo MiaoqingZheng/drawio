@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="2">
   <diagram name="Page-1" id="klMabU_GDppZGB9yFFRy">
-    <mxGraphModel dx="932" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           <mxGeometry height="50" width="100" x="510" y="45" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-108" parent="0vQu63eh7_hz7IOFjZfk-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#66CC00,#32B532);" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Yes - &lt;br&gt;In Stock&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="640" y="40" as="geometry" />
+          <mxGeometry height="30" width="60" x="440" y="40" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-110" parent="0vQu63eh7_hz7IOFjZfk-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Packing Slip Generated&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="730" y="40" as="geometry" />
