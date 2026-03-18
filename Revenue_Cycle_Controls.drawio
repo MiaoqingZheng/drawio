@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3" pages="2">
   <diagram name="Page-1" id="klMabU_GDppZGB9yFFRy">
-    <mxGraphModel dx="2583" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
           <mxGeometry height="90" width="160" x="1130" y="10" as="geometry" />
         </mxCell>
         <mxCell id="DywWvH4VDf4e1SjyT3sU-3" parent="0vQu63eh7_hz7IOFjZfk-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1;fontColor=#FF3333;" value="&lt;span&gt;&lt;font style=&quot;&quot;&gt;No-Rejected&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="640" y="140" as="geometry" />
+          <mxGeometry height="30" width="70" x="670" y="147.5" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-3" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Warehouse Separtment" vertex="1">
           <mxGeometry height="230" width="1870" x="80" y="430" as="geometry" />
