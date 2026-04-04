@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="2">
   <diagram name="Page-1" id="klMabU_GDppZGB9yFFRy">
-    <mxGraphModel dx="2066" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0vQu63eh7_hz7IOFjZfk-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Kissena Bakery - Revenue Cycle (Order-to-Cash)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="20" width="1020" x="80" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="0vQu63eh7_hz7IOFjZfk-4" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#fad7ac;strokeColor=#FF8000;strokeWidth=2;" value="Billing /&lt;br&gt;Accounts Receivable" vertex="1">
+        <mxCell id="0vQu63eh7_hz7IOFjZfk-4" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#FFCC99;strokeColor=#FF8000;strokeWidth=2;swimlaneFillColor=#FFFEDF;" value="Billing /&lt;br&gt;Accounts Receivable" vertex="1">
           <mxGeometry height="230" width="1020" x="80" y="850" as="geometry">
             <mxRectangle height="30" width="500" y="310" as="alternateBounds" />
           </mxGeometry>
@@ -15,7 +15,7 @@
         <mxCell id="0YdZOAwKbOOHbmaocjk8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ACCT 341&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Name：Miaoqing ZHeng&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;ID: 23296511&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Date: 03/28/2026&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="329" x="170" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="0vQu63eh7_hz7IOFjZfk-3" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9933FF;strokeWidth=2;" value="Warehouse Separtment" vertex="1">
+        <mxCell id="0vQu63eh7_hz7IOFjZfk-3" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9933FF;strokeWidth=2;swimlaneFillColor=#F9F6FF;" value="Warehouse Separtment" vertex="1">
           <mxGeometry height="280" width="1020" x="80" y="570" as="geometry" />
         </mxCell>
         <mxCell id="pGH0SQg9JUakCyH8bkGQ-32" edge="1" parent="0vQu63eh7_hz7IOFjZfk-3" source="0vQu63eh7_hz7IOFjZfk-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=2;" target="0vQu63eh7_hz7IOFjZfk-92">
@@ -68,7 +68,7 @@
         <mxCell id="JjxT6XXtwAddX6sOskqe-13" edge="1" parent="0vQu63eh7_hz7IOFjZfk-3" source="0vQu63eh7_hz7IOFjZfk-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.818;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=3;" target="0vQu63eh7_hz7IOFjZfk-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0vQu63eh7_hz7IOFjZfk-2" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#FF99FF;strokeWidth=2;" value="Sales Department" vertex="1">
+        <mxCell id="0vQu63eh7_hz7IOFjZfk-2" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#f8cecc;strokeColor=#FF99FF;strokeWidth=2;fillStyle=solid;swimlaneFillColor=#FFF1EB;" value="Sales Department" vertex="1">
           <mxGeometry height="420" width="1020" x="80" y="150" as="geometry">
             <mxRectangle height="30" width="610" y="20" as="alternateBounds" />
           </mxGeometry>
@@ -156,11 +156,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZDdy4ylPSpOC2Ge6VpiW" name="Page-2">
-    <mxGraphModel dx="905" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_GW_QHAqRueJzuYdTQVs-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#E1D5E7;strokeColor=#9933FF;strokeWidth=2;" value="Warehouse Separtment" vertex="1">
+        <mxCell id="_GW_QHAqRueJzuYdTQVs-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#E1D5E7;strokeColor=#9933FF;strokeWidth=2;swimlaneFillColor=#F9F6FF;" value="Warehouse Separtment" vertex="1">
           <mxGeometry height="270" width="1020" x="80" y="150" as="geometry" />
         </mxCell>
         <mxCell id="JTW380UVqBL9k5zzlviH-1" parent="_GW_QHAqRueJzuYdTQVs-1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#9999FF;strokeWidth=2;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Goods Dispatched to Customer&lt;/b&gt;&lt;/font&gt;" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="Y0x97Svv89Kf0asxUhHi-1" parent="_GW_QHAqRueJzuYdTQVs-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;direction=north;strokeColor=#9999FF;fillColor=#E11998;align=left;strokeWidth=2;" value="&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;Continued&lt;br&gt;&amp;nbsp;Page 2&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="70" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="VSqCA1LAcqbEIX1a-AIG-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#FF9933;strokeWidth=2;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Billing /&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Accounts Receivable&lt;/span&gt;" vertex="1">
+        <mxCell id="VSqCA1LAcqbEIX1a-AIG-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#FF9933;strokeWidth=2;swimlaneFillColor=#FFFEDF;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Billing /&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Accounts Receivable&lt;/span&gt;" vertex="1">
           <mxGeometry height="170" width="1020" x="80" y="420" as="geometry" />
         </mxCell>
         <mxCell id="KsxiR5SY5I83CpnIQ7mC-4" edge="1" parent="VSqCA1LAcqbEIX1a-AIG-1" source="2IOCe_ZcG10jMQKezpJ2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;strokeWidth=2;" target="2IOCe_ZcG10jMQKezpJ2-2">
