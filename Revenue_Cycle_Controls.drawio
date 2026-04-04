@@ -35,7 +35,7 @@
         <mxCell id="0vQu63eh7_hz7IOFjZfk-92" parent="0vQu63eh7_hz7IOFjZfk-3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=light-dark(#FF6666,#FF3333);strokeWidth=2;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;&lt;i&gt;Inventory Available?&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="270" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="0vQu63eh7_hz7IOFjZfk-96" parent="0vQu63eh7_hz7IOFjZfk-3" style="html=1;dashed=1;whiteSpace=wrap;fillColor=#FF6666;strokeColor=#0000FF;fontColor=#ffffff;dashPattern=8 4 1 4;strokeWidth=2;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 255);&quot;&gt;Escalate to Manager - Back Order or Cancel&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="0vQu63eh7_hz7IOFjZfk-96" parent="0vQu63eh7_hz7IOFjZfk-3" style="html=1;dashed=1;whiteSpace=wrap;fillColor=#FF3333;strokeColor=#0000FF;fontColor=#ffffff;dashPattern=8 4 1 4;strokeWidth=2;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(51, 51, 51);&quot;&gt;Escalate to Manager - Back Order or Cancel&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="110" x="210" y="190" as="geometry" />
         </mxCell>
         <mxCell id="46-Umk2mzS9Czotzx1H9-6" edge="1" parent="0vQu63eh7_hz7IOFjZfk-3" source="0vQu63eh7_hz7IOFjZfk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;strokeWidth=2;" target="0vQu63eh7_hz7IOFjZfk-110">
@@ -124,7 +124,7 @@
         <mxCell id="0vQu63eh7_hz7IOFjZfk-60" parent="0vQu63eh7_hz7IOFjZfk-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#00CC00;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Yes - Approved&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="848" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="0vQu63eh7_hz7IOFjZfk-65" parent="0vQu63eh7_hz7IOFjZfk-2" style="html=1;dashed=1;whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FF6666,#FF3333);strokeColor=#0000FF;fontColor=#ffffff;fontStyle=1;dashPattern=8 4 1 4;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 255);&quot;&gt;Order Rejected - Customer Notified&lt;/font&gt;" vertex="1">
+        <mxCell id="0vQu63eh7_hz7IOFjZfk-65" parent="0vQu63eh7_hz7IOFjZfk-2" style="html=1;dashed=1;whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#FF3333,#FF3333);strokeColor=#0000FF;fontColor=#ffffff;fontStyle=1;dashPattern=8 4 1 4;" value="&lt;font style=&quot;font-size: 13px; color: rgb(51, 51, 51);&quot;&gt;Order Rejected - Customer Notified&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="490" y="175" as="geometry" />
         </mxCell>
         <mxCell id="0vQu63eh7_hz7IOFjZfk-67" parent="0vQu63eh7_hz7IOFjZfk-2" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#9999FF;strokeWidth=2;" value="&lt;font style=&quot;font-size: 13px; color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;Sales Order Authorized &amp;amp; Released to Warehouse&lt;/b&gt;&lt;/font&gt;" vertex="1">
