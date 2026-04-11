@@ -202,7 +202,7 @@
         <mxCell id="P3YaCky24gQnAikYR2Y3-3" edge="1" parent="VSqCA1LAcqbEIX1a-AIG-1" source="2IOCe_ZcG10jMQKezpJ2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.091;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;strokeWidth=2;" target="dAGMuh-EUK1Y8pTE6-PC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oa-XKvtrxW7EkG24Ys6A-1" parent="VSqCA1LAcqbEIX1a-AIG-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;Customer&lt;br&gt;Remits Payment&lt;/font&gt;" vertex="1">
+        <mxCell id="Oa-XKvtrxW7EkG24Ys6A-1" parent="VSqCA1LAcqbEIX1a-AIG-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;&lt;b&gt;Customer&lt;br&gt;Remits Payment&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="500" y="115" as="geometry" />
         </mxCell>
         <mxCell id="dAGMuh-EUK1Y8pTE6-PC-10" edge="1" parent="1" source="JTW380UVqBL9k5zzlviH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;strokeWidth=3;" target="2IOCe_ZcG10jMQKezpJ2-1">
